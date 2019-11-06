@@ -13,7 +13,7 @@ with open('README.md', 'r') as fh:
     LONG_DESCRIPTION = fh.read()
     setuptools.setup(
         name = 'lambdata_crsanderford',
-        version = '0.1.0',
+        version = '0.1.1',
         author = 'crsanderford',
         description = 'a collection of dataframe utility functions',
         long_description = LONG_DESCRIPTION,
