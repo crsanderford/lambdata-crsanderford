@@ -10,4 +10,4 @@ ONES = pd.DataFrame(np.ones(5))
 ZEROS = pd.DataFrame(np.zeros(20))
 
 # importing df_utils
-from df_utils import list_to_column, datesplit
+from lambdata_crsanderford.df_utils import list_to_column, datesplit
